@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chohxatahb.willkimble.net/sitemap.xml
